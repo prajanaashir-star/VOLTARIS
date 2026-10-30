@@ -3,5 +3,5 @@
 //   apiBase "https://your-server.onrender.com" = a server on another address.
 // If no server answers (and apiBase is empty), the app shows built-in demo data.
 window.VOLTARIS_CONFIG = {
-  apiBase: ""
+  apiBase: "https://voltaris-backend.onrender.com"
 };
